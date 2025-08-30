@@ -1,0 +1,7 @@
+opencv-python
+pillow
+matplotlib
+requests
+ipywidgets
+azure-cognitiveservices-vision-customvision
+msrest  
